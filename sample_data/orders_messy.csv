@@ -1,0 +1,247 @@
+Order No,Order Date,Client,Product Category,Total
+INV-1085,19/05/2026,UAB Vilnius Tech,Hardware,EUR 241.80
+INV-1020,26 Jul 2026,SIA Baltic Build, software ,211.61
+INV-1035,46305,acme builders ltd,Software,EUR 286.93
+INV-1225,2026-10-13,UAB Vilnius Tech,Services,748.90
+INV-1202,46132,green leaf cafe,Hardware,345.87 EUR
+INV-1160,"Jun 06, 2026",Tallinn Logistics OÜ,Software,"€309,34"
+INV-1212,22 Aug 2026,Daugava Dental,Software,"217,54"
+INV-1079,20/04/2026,  Nordic   Foods AS,Services,404.48
+INV-1032,46247,UAB Vilnius Tech,HARDWARE,EUR 454.95
+INV-1095,10 May 2026,BMW Latvia,Hardware,"€182,84"
+INV-1090,"Apr 19, 2026",Riga Print House,HARDWARE,271.47 EUR
+INV-1036,12/04/2026,Riga Print House,Services,"444,27"
+INV-1166,10 Jun 2026,UAB Vilnius Tech,HARDWARE,255.33
+INV-1043,17/08/2026,Tallinn Logistics OÜ,HARDWARE,"317,10"
+INV-1014,24.04.2026,UAB Vilnius Tech,,EUR 391.49
+INV-1018,"Jan 05, 2026",green leaf cafe,Software,"108,39"
+INV-1190,23/03/2026,  Nordic   Foods AS, software ,531.05 EUR
+INV-1226,2026-01-06,Daugava Dental,,"237,93"
+INV-1203,2026-05-23,UAB Vilnius Tech,,232.48 EUR
+INV-1217,30/08/2026,Tallinn Logistics OÜ,consulting,EUR 431.91
+INV-1213,46071,BMW Latvia, software ,EUR 1820.52
+INV-1045,14/03/2026,acme builders ltd, software ,EUR 229.35
+INV-1220,08/03/2026,green leaf cafe,HARDWARE,"66,60"
+INV-1236,02 Jun 2026,BMW Latvia,Hardware,460.00
+INV-1106,12/04/2026,acme builders ltd,HARDWARE,"178,54"
+INV-1124,09/05/2026,Riga Print House,consulting,165.07
+INV-1168,46161,Daugava Dental,Services,449.73 EUR
+INV-1132,46272,Daugava Dental,hw,"€204,49"
+INV-1027,09.07.2026,Daugava Dental,consulting,"€578,78"
+INV-1170,25 Mar 2026,green leaf cafe, software ,EUR 419.53
+INV-1224,46187,acme builders ltd,Hardware,EUR 362.65
+INV-1215,05 Aug 2026,Daugava Dental,Hardware,EUR 186.62
+INV-1143,22 Jan 2026,Tallinn Logistics OÜ,Services,EUR 364.43
+INV-1002,2026-02-01,UAB Vilnius Tech,,505.99
+INV-1165,"Aug 02, 2026",UAB Vilnius Tech,Software,"107,69"
+INV-1061,17/07/2026,,Services,1043.79
+INV-1162,2026-03-18,SIA Baltic Build,consulting,"230,44"
+INV-1154,04/10/2026,BMW Latvia,,349.77 EUR
+INV-1054,"May 16, 2026",UAB Vilnius Tech,Services,"248,64"
+INV-1200,"Jun 30, 2026",Riga Print House,HARDWARE,"87,71"
+INV-1191,09.04.2026,  Nordic   Foods AS,Services,342.30 EUR
+INV-1140,46223,Riga Print House,,"2156,47"
+INV-1183,"Feb 28, 2026",acme builders ltd,consulting,72.81 EUR
+INV-1070,2026-01-24,UAB Vilnius Tech,HARDWARE,"135,75"
+INV-1094,46280,Riga Print House,hw,109.43 EUR
+INV-1131,12.07.2026,SIA Baltic Build,HARDWARE,"156,07"
+INV-1117,26 Feb 2026,BMW Latvia,,EUR 135.73
+INV-1010,23/01/2026,green leaf cafe,consulting,"376,41"
+INV-1239,18 Mar 2026,BMW Latvia,consulting,540.79 EUR
+INV-1158,2026-03-11,SIA Baltic Build,Hardware,260.87
+INV-1113,46040,UAB Vilnius Tech,Hardware,EUR 333.70
+INV-1056,19/08/2026,SIA Baltic Build,Services,270.46
+INV-1175,05.02.2026,Riga Print House, software ,408.18
+INV-1087,2026-03-14,Daugava Dental,Software,"€344,84"
+INV-1103,12 Apr 2026,acme builders ltd,Services,"€268,75"
+INV-1210,07/06/2026,SIA Baltic Build,Hardware,"€402,14"
+INV-1121,2026-08-09,,HARDWARE,EUR 198.69
+INV-1088,01/09/2026,BMW Latvia,,"€234,55"
+INV-1178,14 May 2026,BMW Latvia,Hardware,EUR 609.34
+INV-1084,2026-05-23,BMW Latvia,Software,"€488,52"
+INV-1159,20/10/2026,Daugava Dental, software ,EUR 222.54
+INV-1042,"Apr 10, 2026",Tallinn Logistics OÜ,Hardware,83.40
+INV-1114,2026-01-20,BMW Latvia, software ,217.13
+INV-1057,10.01.2026,Daugava Dental,HARDWARE,"€83,95"
+INV-1152,28.07.2026,BMW Latvia,hw,"2128,32"
+INV-1231,2026-10-19,acme builders ltd,,"78,52"
+INV-1018,"Jan 05, 2026",green leaf cafe,Software,"108,39"
+INV-1146,26 Jul 2026,Daugava Dental,Hardware,246.72
+INV-1019,46052,Daugava Dental,,EUR 180.63
+INV-1013,29.06.2026,acme builders ltd,HARDWARE,93.22
+INV-1173,2026-03-31,SIA Baltic Build,Hardware,"€217,65"
+INV-1062,2026-08-26,BMW Latvia,consulting,161.27 EUR
+INV-1195,46240,Riga Print House,Software,944.91
+INV-1034,"Aug 29, 2026",Tallinn Logistics OÜ,consulting,"€416,17"
+INV-1111,06 Aug 2026,acme builders ltd,Hardware,EUR 103.03
+INV-1112,13.04.2026,green leaf cafe,consulting,EUR 40.49
+INV-1211,2026-02-08,  Nordic   Foods AS, software ,"€347,14"
+INV-1216,"Aug 30, 2026",SIA Baltic Build,Software,187.86 EUR
+INV-1046,2026-02-09,  Nordic   Foods AS,consulting,"€164,87"
+INV-1237,08 Jan 2026,BMW Latvia,Services,"486,42"
+INV-1129,01.07.2026,SIA Baltic Build, software ,158.05 EUR
+INV-1179,18/01/2026,Tallinn Logistics OÜ,Hardware,"193,21"
+INV-1029,17.01.2026,green leaf cafe,HARDWARE,523.29 EUR
+INV-1031,15 Feb 2026,,HARDWARE,"€426,93"
+INV-1192,2026-08-13,BMW Latvia, software ,EUR 199.35
+INV-1144,46182,green leaf cafe,HARDWARE,"321,43"
+INV-1126,21.01.2026,Tallinn Logistics OÜ,consulting,108.94
+INV-1115,"Jun 25, 2026",SIA Baltic Build,Services,211.15 EUR
+INV-1101,27.04.2026,Tallinn Logistics OÜ, software ,"183,30"
+INV-1065,2026-09-18,  Nordic   Foods AS,,"389,50"
+INV-1086,2026-10-13,UAB Vilnius Tech,HARDWARE,"333,89"
+INV-1235,2026-05-07,green leaf cafe,Software,214.63
+INV-1169,24.04.2026,BMW Latvia, software ,"€98,42"
+INV-1030,08 Jul 2026,SIA Baltic Build,HARDWARE,256.15 EUR
+INV-1234,05 Jan 2026,SIA Baltic Build,Services,"184,00"
+INV-1223,17 Sep 2026,acme builders ltd,consulting,"€214,01"
+INV-1188,"Aug 28, 2026",Riga Print House,Software,195.51 EUR
+INV-1301,31/02/2026,Riga Print House,Software,120
+INV-1107,46120,SIA Baltic Build,Software,EUR 681.70
+INV-1016,25.05.2026,  Nordic   Foods AS,hw,"€385,36"
+INV-1051,15.02.2026,UAB Vilnius Tech,Services,EUR 428.05
+INV-1082,03 Jan 2026,acme builders ltd, software ,196.68
+INV-1077,2026-09-24,Daugava Dental, software ,166.97 EUR
+INV-1135,17.04.2026,UAB Vilnius Tech,hw,690.92
+INV-1063,10/10/2026,Riga Print House,consulting,"€217,14"
+INV-1059,46142,  Nordic   Foods AS,,87.68 EUR
+INV-1229,23/02/2026,  Nordic   Foods AS,Services,"1146,35"
+INV-1048,23/09/2026,green leaf cafe,hw,221.50 EUR
+INV-1167,2026-08-22,green leaf cafe,Services,120.93
+INV-1181,20.02.2026,Tallinn Logistics OÜ,consulting,"257,16"
+INV-1007,"Oct 02, 2026",Tallinn Logistics OÜ,consulting,238.23 EUR
+INV-1004,03.02.2026,SIA Baltic Build,Software,315.28 EUR
+INV-1218,46239,SIA Baltic Build,Hardware,"148,44"
+INV-1164,2026-01-25,SIA Baltic Build, software ,"€172,61"
+INV-1161,10.01.2026,Tallinn Logistics OÜ,hw,540.84
+INV-1026,46038,acme builders ltd,Services,"420,58"
+INV-1044,09/05/2026,Daugava Dental, software ,EUR 1877.47
+INV-1005,05/08/2026,Daugava Dental,Software,166.63
+INV-1108,46052,green leaf cafe,hw,113.22
+INV-1033,15.02.2026,SIA Baltic Build,Software,"374,37"
+INV-1221,13 Oct 2026,green leaf cafe,,408.17 EUR
+INV-1078,15 Feb 2026,BMW Latvia,,"€205,70"
+INV-1105,24.07.2026,Tallinn Logistics OÜ, software ,482.98 EUR
+INV-1076,2026-02-03,Riga Print House,HARDWARE,145.42 EUR
+INV-1187,19 Jun 2026,Daugava Dental,consulting,"€329,54"
+INV-1058,19 Aug 2026,Daugava Dental,Services,"€230,15"
+INV-1122,"Apr 01, 2026",Riga Print House,hw,156.44 EUR
+INV-1136,29.07.2026,  Nordic   Foods AS,Hardware,313.27
+INV-1091,21.08.2026,acme builders ltd,Software,223.02 EUR
+INV-1180,2026-10-19,SIA Baltic Build,consulting,EUR 60.06
+INV-1171,46299,SIA Baltic Build,Hardware,EUR 215.17
+INV-1163,18 Aug 2026,Riga Print House,Software,348.49
+INV-1206,46140,UAB Vilnius Tech,HARDWARE,420.97 EUR
+INV-1186,"May 02, 2026",SIA Baltic Build,consulting,"389,00"
+INV-1009,13/09/2026,  Nordic   Foods AS,HARDWARE,EUR 122.95
+INV-1025,"Mar 26, 2026",green leaf cafe,Software,"277,18"
+INV-1006,2026-04-09,SIA Baltic Build, software ,EUR 192.71
+INV-1153,27 Jan 2026,Daugava Dental,hw,349.22 EUR
+INV-1072,"Jan 04, 2026",Daugava Dental,hw,"255,80"
+INV-1204,18 May 2026,Daugava Dental, software ,EUR 137.87
+INV-1008,10.05.2026,acme builders ltd,Services,"875,18"
+INV-1081,06 Jun 2026,green leaf cafe,hw,431.51 EUR
+INV-1040,2026-04-01,Daugava Dental,Hardware,87.35 EUR
+INV-1021,"Apr 19, 2026",SIA Baltic Build,hw,249.61
+INV-1119,03/05/2026,acme builders ltd, software ,EUR 199.56
+INV-1157,26 Apr 2026,UAB Vilnius Tech,consulting,90.32
+INV-1028,"Apr 12, 2026",Tallinn Logistics OÜ,consulting,392.49
+INV-1096,19 Jan 2026,Tallinn Logistics OÜ,Hardware,184.91
+INV-1127,02.06.2026,acme builders ltd,consulting,"545,29"
+INV-1012,"Feb 03, 2026",Tallinn Logistics OÜ,Services,EUR 404.27
+INV-1006,2026-04-09,SIA Baltic Build, software ,EUR 192.71
+INV-1039,21 Mar 2026,  Nordic   Foods AS,Hardware,"€278,32"
+INV-1133,25/07/2026,BMW Latvia,,402.45
+INV-1104,2026-08-08,green leaf cafe,,523.38 EUR
+INV-1092,14/10/2026,Riga Print House,Hardware,EUR 141.83
+INV-1145,15 Aug 2026,Tallinn Logistics OÜ,Software,EUR 805.73
+INV-1148,16.01.2026,  Nordic   Foods AS,HARDWARE,"1,219.77 EUR"
+INV-1093,18 Jul 2026,BMW Latvia,consulting,217.60
+INV-1075,14/04/2026,  Nordic   Foods AS,Hardware,EUR 85.57
+INV-1047,46154,Riga Print House,Software,EUR 213.09
+INV-1024,46272,green leaf cafe,Services,EUR 207.68
+INV-1050,2026-09-24,acme builders ltd, software ,366.91
+INV-1055,10/03/2026,BMW Latvia, software ,190.72 EUR
+INV-1049,46034,SIA Baltic Build,,188.78 EUR
+INV-1197,26/07/2026,UAB Vilnius Tech,HARDWARE,EUR 539.74
+INV-1184,46073,acme builders ltd,,222.33
+INV-1130,22.01.2026,SIA Baltic Build,consulting,EUR 380.98
+INV-1123,02/06/2026,BMW Latvia, software ,EUR 188.34
+INV-1227,"Mar 19, 2026",acme builders ltd, software ,446.58
+INV-1172,02.05.2026,UAB Vilnius Tech,hw,"305,52"
+INV-1067,46295,UAB Vilnius Tech,consulting,EUR 446.82
+INV-1134,11/06/2026,Riga Print House,,EUR 243.45
+INV-1149,28.03.2026,acme builders ltd,consulting,"602,68"
+INV-1189,"Aug 27, 2026",Riga Print House,Services,475.68 EUR
+INV-1194,14 Jan 2026,SIA Baltic Build, software ,EUR 91.34
+INV-1017,21 Mar 2026,  Nordic   Foods AS,Services,177.71 EUR
+INV-1091,21.08.2026,acme builders ltd,Software,223.02 EUR
+INV-1138,2026-06-30,acme builders ltd,,EUR 157.05
+INV-1023,2026-06-29,Tallinn Logistics OÜ,HARDWARE,EUR 341.58
+INV-1219,26.01.2026,SIA Baltic Build, software ,EUR 277.21
+INV-1118,46092,BMW Latvia,Software,"507,35"
+INV-1099,08.03.2026,BMW Latvia,,347.57
+INV-1003,"May 06, 2026",acme builders ltd, software ,"115,11"
+INV-1222,13/10/2026,Tallinn Logistics OÜ,,127.03 EUR
+INV-1066,46046,Riga Print House,hw,"225,48"
+INV-1053,2026-02-01,BMW Latvia,Hardware,420.12
+INV-1182,16.05.2026,Riga Print House,HARDWARE,"€302,29"
+INV-1120,2026-03-25,Tallinn Logistics OÜ,consulting,"€195,50"
+INV-1102,46151,BMW Latvia,Hardware,103.44
+INV-1174,2026-01-24,green leaf cafe, software ,"664,35"
+INV-1015,13/02/2026,  Nordic   Foods AS,,"138,44"
+INV-1156,27/01/2026,green leaf cafe,Hardware,163.15
+INV-1302,2026-05-14,Daugava Dental,Services,n/a
+INV-1233,10.10.2026,  Nordic   Foods AS,Hardware,EUR 70.51
+INV-1185,"Jul 12, 2026",Daugava Dental,Software,EUR 167.51
+INV-1193,28 Aug 2026,Riga Print House,Services,EUR 106.56
+INV-1052,20 Mar 2026,green leaf cafe,hw,296.06 EUR
+INV-1098,23 Mar 2026,acme builders ltd,Hardware,1303.22
+INV-1125,"Jul 24, 2026",Riga Print House,hw,EUR 182.09
+INV-1142,24.03.2026,Riga Print House,Hardware,"230,57"
+INV-1139,2026-04-14,Tallinn Logistics OÜ,consulting,62.54
+INV-1022,20.10.2026,UAB Vilnius Tech,Software,228.59 EUR
+INV-1137,12/10/2026,Daugava Dental,Software,"€202,28"
+INV-1089,2026-06-06,  Nordic   Foods AS,Software,254.43
+INV-1128,46116,SIA Baltic Build,hw,"248,99"
+INV-1199,21.07.2026,  Nordic   Foods AS, software ,"143,84"
+INV-1238,"Mar 28, 2026",Tallinn Logistics OÜ,HARDWARE,"€327,46"
+INV-1141,13.04.2026,SIA Baltic Build,,"438,71"
+INV-1232,29 Jul 2026,  Nordic   Foods AS,HARDWARE,EUR 253.36
+INV-1205,2026-08-27,Riga Print House,HARDWARE,"181,78"
+INV-1071,46050,Riga Print House,HARDWARE,407.68 EUR
+INV-1038,"Jul 03, 2026",UAB Vilnius Tech,Software,"1113,18"
+INV-1147,2026-03-10,Daugava Dental,,"€535,11"
+INV-1208,46217,BMW Latvia,consulting,"€409,20"
+INV-1037,"May 06, 2026",UAB Vilnius Tech,Software,432.59
+INV-1303,sometime in May,BMW Latvia,Hardware,"540,00"
+INV-1074,01 May 2026,BMW Latvia,Hardware,"267,26"
+INV-1011,2026-09-14,BMW Latvia,HARDWARE,322.61
+INV-1201,"Jan 11, 2026",green leaf cafe,,EUR 719.03
+INV-1196,46257,acme builders ltd,,"€242,39"
+INV-1209,"Jun 06, 2026",acme builders ltd,consulting,"€177,88"
+INV-1151,17/05/2026,SIA Baltic Build, software ,"€324,55"
+INV-1041,2026-09-25,Daugava Dental,Hardware,"€290,41"
+INV-1109,"Mar 28, 2026",Tallinn Logistics OÜ,Hardware,210.24 EUR
+INV-1069,2026-03-15,Riga Print House,hw,419.70
+INV-1068,20.03.2026,SIA Baltic Build,,"137,04"
+INV-1083,31 May 2026,acme builders ltd,consulting,EUR 196.97
+INV-1001,2026-06-17,acme builders ltd,hw,657.68 EUR
+INV-1177,11 Mar 2026,BMW Latvia,Hardware,160.72 EUR
+INV-1073,2026-02-05,BMW Latvia, software ,"€473,83"
+INV-1116,"May 24, 2026",acme builders ltd,Hardware,"€112,87"
+INV-1207,10 Oct 2026,green leaf cafe, software ,611.59 EUR
+INV-1060,30 Jan 2026,  Nordic   Foods AS,Hardware,947.54
+INV-1230,2026-05-15,green leaf cafe,Hardware,EUR 461.24
+INV-1198,46035,  Nordic   Foods AS,consulting,346.25
+INV-1155,18 Mar 2026,Riga Print House,Software,"132,55"
+INV-1240,26/05/2026,SIA Baltic Build,Software,"1112,43"
+INV-1176,46042,BMW Latvia,HARDWARE,753.13
+INV-1100,"Feb 22, 2026",Riga Print House,,91.38 EUR
+INV-1097,22 Jul 2026,Riga Print House,hw,"€287,99"
+INV-1064,03/01/2026,Daugava Dental, software ,"€217,92"
+INV-1228,46259,  Nordic   Foods AS,Hardware,EUR 324.44
+INV-1110,2026-07-15,BMW Latvia,hw,250.24 EUR
+INV-1150,12.05.2026,BMW Latvia,HARDWARE,"€62,46"
+INV-1080,2026-07-08,Tallinn Logistics OÜ,HARDWARE,EUR 265.85
+INV-1214,22 Apr 2026,acme builders ltd,hw,312.09 EUR
